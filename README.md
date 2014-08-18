@@ -38,7 +38,7 @@ Older people need less than 6 hours
 There different stages of sleep
 
 Yellow : percentage of REM (rapid eye movements)
-Green: non-REM or slow wave sleep
+Green: non-REM or sws (slow wave sleep)
 
 ....
 
@@ -53,7 +53,7 @@ Most if the time we don't remember that we woke up
 
 
 Ok so we already know that we sleep a lot
-1/3 of life
+roughly 1/3 of our lifes
 
 And that sleep is important
 < 4h is considered harmful
@@ -72,25 +72,25 @@ Nobody knows
 
 But we do know that it is essential for learning
 
-The sws is important for
+The SWS is important for
 
 ...
 
 ### learning
 Consolidation of explicit memory
-Exp mem are all the facts we remember
-What, when where?
-What you learn in school
+Explicite memories are all the facts we remember
+The answers to the questions what? when? where? with whom?
+For example what you learn in school
 
 If you wonder about the brain in the slide
 
-For one reason the blue part (hippocampus ) is the brain structure involved in
-Forming explicate memeory
+One reason that I put it in is, that the blue part (hippocampus) is the brain structure involved in
+forming explicite memeory
 
 But more importantly
-Research shows that talks with pics of brains are more convincing
+Research shows that talks with pictures of brains are more convincing
 
-So if nothing convinced you so far, this should.
+So if nothing else convinced you so far, this should.
 
 ....
 
@@ -100,7 +100,7 @@ The REM phase is also important for learning
 
 During REM procedural learning happens
 Procedural memories is everything which you can do, but you have no ides how you are doing it
-Thinks like walking, talking, riding a bike etc
+Things like walking, talking, riding a bike etc
 
 But during REM there is also something else happening
 
@@ -111,7 +111,7 @@ If you say, you are one of the people who don't dream
 
 ...
 
-Well, everyone dreams
+Well, *everyone dreams*
 
 But most of the time people don't remember
 
@@ -134,10 +134,10 @@ There are however theories which explain sleep and one of them
 ### activation-synthesis theory
 Is called activation-synthesis theory (Hobson)
 
-It says dreams are just random activation in the brain stem,
-Which is forwarded to the cortex
+It states that dreams are just random activation in the brain stem,
+Which are forwarded to the cortex
 
-Where it is interpreted just like input from our senses would.
+where they are interpreted just like input from our senses would.
 
 So dreams are basically the interpretation of the random activation patterns
 
